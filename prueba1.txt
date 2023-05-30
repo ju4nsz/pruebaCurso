@@ -1,6 +1,4 @@
-hola, somos ju4n y Juan y esta es nuestra primera línea.
-hola, soy un hacker jajaja y es mi segunda línea.
-esta es la tercera línea del hacker.
-hola, esta es mi tercera línea.
-hola, esta es mi cuarta línea.
+Hola, soy juan y esta es mi primera línea.
+hola, soy un hacker jajaj y es mi segunda línea.
+esta es mi tercera línea ajjaja.
 
